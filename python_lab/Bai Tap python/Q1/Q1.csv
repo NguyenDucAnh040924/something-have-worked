@@ -1,0 +1,64 @@
+Q1: Loop, String, List, Dictionaries, Tuples
+1.1. Easy
+Write a program to print all odd numbers from 1 to 50.
+Take a string as input and print its length.
+Create a list of 10 random numbers.
+Create a dictionary to store information about your favorite book (title, author, year).
+Create a tuple with the days of the week.
+Write a program to print the multiplication table of a given number.
+Take a string as input and convert it to uppercase.
+Create a list of fruits and print each fruit on a new line.
+Create a dictionary with keys as numbers and values as their squares.
+Create a tuple with the first 5 prime numbers.
+Write a program to find the largest number in a list.
+Take a string as input and check if it contains a specific word.
+Create a list of numbers and remove all duplicates.
+Create a dictionary that stores the ages of your family members.
+Create a tuple with your top 3 favorite movies.
+Write a program to calculate the factorial of a number.
+Take a string as input and replace all spaces with underscores.
+Create a list of names and sort them alphabetically.
+Create a dictionary that maps countries to their capitals.
+Create a tuple of mixed data types (integer, string, float).
+1.2. Medium
+Write a program to check if a string is an anagram of another string.
+Take a string as input and remove all vowels from it.
+Given two lists, merge them into a single sorted list.
+Write a program to find the second largest number in a list.
+Create a dictionary with the frequency of each character in a string.
+Write a program to convert a decimal number to its binary representation.
+Take a string as input and check if it's a valid email address.
+Given a list of numbers, find all pairs that sum to a given target.
+Create a dictionary that groups words by their first letter.
+Write a program to generate all permutations of a string.
+Write a program to check if a number is a perfect number.
+Take a string as input and capitalize the first letter of each word.
+Given a list of strings, find the longest common prefix.
+Create a dictionary that stores student information (name, ID, grades).
+Write a program to find the median of a list of numbers.
+Write a program to convert Roman numerals to integers.
+Take a string as input and check if it's a valid palindrome ignoring case.
+Given a list of integers, find the longest increasing subsequence.
+Create a dictionary that represents a graph (nodes and edges).
+Write a program to generate all possible subsets of a set.
+1.3. Hard
+Write a program to implement a binary search algorithm.
+Take a string as input and compress it using run-length encoding.
+Given a list of integers, find the kth smallest element.
+Create a dictionary that implements a simple spell checker.
+Write a program to solve the Tower of Hanoi puzzle.
+Write a program to implement a queue using two stacks.
+Take a string as input and find the longest palindromic substring.
+Given a list of points, find the closest pair of points.
+Create a dictionary that represents a student database with nested information.
+Write a program to generate all possible valid parentheses combinations.
+Write a program to implement the Dijkstra's algorithm for shortest paths.
+Take a string as input and encode it using Huffman coding.
+Given a list of intervals, merge all overlapping intervals.
+Create a dictionary that implements a LRU (Least Recently Used) cache.
+Write a program to solve the N-Queens problem.
+Write a program to implement a Trie data structure.
+Take a string as input and perform regular expression matching.
+Given a list of words, find all words that can be formed by concatenating other words in the list.
+Create a dictionary that represents a social network graph.
+Write a program to generate a random maze.

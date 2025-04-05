@@ -1,0 +1,3 @@
+Write a program In the python programming language using object-oriented programming techniques. The program enters a list of employees,
+each with information on name, salary and age (you have to use InputListEmployee() fuction to read employees list). Sort employees by
+decreasing age. Print the list of emplyees before and after the sorting

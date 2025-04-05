@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Peyton",
+                "last": "Gregory"
+            },
+            "location": {
+                "street": {
+                    "number": 7629,
+                    "name": "Dane St"
+                },
+                "city": "Hobart",
+                "state": "Tasmania",
+                "country": "Australia",
+                "postcode": 8638,
+                "coordinates": {
+                    "latitude": "-87.0076",
+                    "longitude": "130.0743"
+                },
+                "timezone": {
+                    "offset": "+4:00",
+                    "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+                }
+            },
+            "email": "peyton.gregory@example.com",
+            "login": {
+                "uuid": "c529c27b-3cf4-4785-ac0a-b5b13544761c",
+                "username": "purplepeacock389",
+                "password": "1956",
+                "salt": "W9tBGv6W",
+                "md5": "0b03fe030c604e3159aab09e5127a5df",
+                "sha1": "c7107b24ac021f11b40864e2f0fc675669adb9c7",
+                "sha256": "e508b371ffa12b8248bb9420d3f5944f2887f679f25fc527ffd873b3004e3c74"
+            },
+            "dob": {
+                "date": "1986-02-09T09:33:34.742Z",
+                "age": 38
+            },
+            "registered": {
+                "date": "2004-09-19T18:33:50.767Z",
+                "age": 20
+            },
+            "phone": "03-3243-0806",
+            "cell": "0462-071-809",
+            "id": {
+                "name": "TFN",
+                "value": "516756524"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/20.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/20.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/20.jpg"
+            },
+            "nat": "AU"
+        }
+    ],
+    "info": {
+        "seed": "7f460b093931d7f7",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}

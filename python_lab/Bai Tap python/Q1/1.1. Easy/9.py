@@ -1,0 +1,1 @@
+# Create a dictionary with keys as numbers and values as their squares.

@@ -1,0 +1,17 @@
+2.1. Easy
+Write a program to read a text file and print the number of words in it.
+Write a program to create a new file and write "Hello, World!" to it.
+Write a program to read a text file and print all lines that contain a specific word.
+Write a program to copy the content of one text file to another, but in reverse order.
+Write a program to create a new text file and write the current date and time to it.
+Write a program to read a text file and print the longest line in the file.
+Write a program to append a new line to an existing text file.
+Write a program to rename a file.
+Write a program to read a text file and replace all occurrences of a word with another word.
+Write a program to delete a file.
+Write a program to read a text file and print the lines in alphabetical order.
+Write a program to check if a file exists.
+Write a program to create a new directory.
+Write a program to read a text file and print the number of characters in it.
+Write a program to list all files in a directory.
+Write a program to move a file from one directory to another.
